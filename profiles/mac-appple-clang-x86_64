@@ -8,6 +8,3 @@ compiler.libcxx=libc++
 compiler.version=14
 os=Macos
 os_build=Macos
-[options]
-[build_requires]
-[env]

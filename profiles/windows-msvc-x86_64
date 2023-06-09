@@ -8,6 +8,4 @@ compiler.runtime=dynamic
 compiler.version=193
 os=Windows
 os_build=Windows
-[options]
-[build_requires]
-[env]
+
