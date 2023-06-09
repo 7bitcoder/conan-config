@@ -7,4 +7,3 @@ compiler.cppstd=gnu17
 compiler.libcxx=libc++
 compiler.version=14
 os=Macos
-os_build=Macos
